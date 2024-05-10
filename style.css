@@ -15,7 +15,7 @@
     --main-color: #2a96c5;
 }
 html{
-    font-size: 62.5%;
+    font-size: 60%;
     overflow-x: hidden;
 }
 body{
@@ -27,7 +27,7 @@ body{
     top: 0;
     left: 0;
     width: 100%;
-    padding: 3rem 9%;
+    padding: 4rem 12%;
     background: rgba(0, 0, 0, 0.6);
     backdrop-filter: blur(10px);
     display: flex;
