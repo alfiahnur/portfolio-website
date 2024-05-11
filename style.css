@@ -91,10 +91,10 @@ span{
 .home-content h3{
     margin-bottom:  2rem;
     margin-top: 1rem;
-    font-size: 3.5rem;
+    font-size: 2rem;
 }
 .home-content h1{
-    font-size: 5rem;
+    font-size: 3.5rem;
     font-weight: 500;
     margin-top: 1.5rem;
     line-height: 1;
@@ -358,8 +358,8 @@ span{
     }
     .blog-container{
         padding-bottom: 7rem;
-        grid-template-columns: repeat(2,1fr);
-        margin: 0 5rem;
+        grid-template-columns: repeat(1,1fr);
+        /* margin: 0 5rem; */
     }
 }
 @media(max-width:991px){
